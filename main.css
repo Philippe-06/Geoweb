@@ -1,0 +1,11 @@
+.p_bgblue{
+    background-color: rgb(159, 241, 241);
+}
+
+.nav-item:hover{
+    background-color: rgb(94, 108, 231);
+}
+
+.nav-item{
+    height: 70px;
+}
